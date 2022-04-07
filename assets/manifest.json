@@ -6,7 +6,7 @@
     "display": "fullscreen",
     "orientation": "portrait",
     "scope": "./",
-    "start_url": "./",
+    "start_url": "https://dluru.github.io/univim/",
     "icons": [
         {
             "src": "../images/icon.png",
